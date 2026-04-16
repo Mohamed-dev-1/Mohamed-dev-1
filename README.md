@@ -1,27 +1,31 @@
-<h1 align="center">Hi 👋, I'm Mohammed Allae Eddine</h1>
+<h1 align="center"> This is " Mohammed Allae Eddine " </h1>
 
 <h3 align="center">
 Full-Stack Developer • AI/ML • Game Development • UI/UX • HCI
 </h3>
 
 <p align="center">
-Building Software, AI Systems & Human-Centered Experiences 🚀
+<img src="https://readme-typing-svg.herokuapp.com?color=3A86FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI%2FML+Engineer;Game+Developer;UI%2FUX+Designer;Human+Computer+Interaction"/>
+</p>
+
+<p align="center">
+Building Software, AI Systems & Human-Centered Experiences 
 </p>
 
 ---
 
-## 🚀 About Me
+## * About Me
 
-- 💻 Software Developer
-- 🤖 AI / Machine Learning Enthusiast
-- 🌐 Full Stack Web Developer
-- 🎮 Game Developer
-- 🎨 UI / UX Designer
-- 🧠 Human Computer Interaction (HCI)
+-  Software Developer
+-  AI / Machine Learning Enthusiast
+-  Full Stack Web Developer
+-  Game Developer
+-  UI / UX Designer
+-  Human Computer Interaction (HCI)
 
 ---
 
-## 🌐 Connect With Me
+## * Connect With Me
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -32,9 +36,9 @@ Building Software, AI Systems & Human-Centered Experiences 🚀
 
 ---
 
-# 🛠️ Tech Stack
+# * Tech Stack
 
-## 💻 Programming Languages
+##  Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,php,dart,kotlin"/>
@@ -42,15 +46,15 @@ Building Software, AI Systems & Human-Centered Experiences 🚀
 
 ---
 
-## 🌐 Web Development
+## Web Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,laravel,symfony,tailwind"/>
+<img src="https://skillicons.dev/icons?i=laravel,html,css,js,react,vue,nodejs,symfony,tailwind"/>
 </p>
 
 ---
 
-## 🤖 AI / Machine Learning
+## * AI / Machine Learning
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch"/>
@@ -63,7 +67,7 @@ Building Software, AI Systems & Human-Centered Experiences 🚀
 
 ---
 
-## 🗄️ Databases
+## * Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite"/>
@@ -71,7 +75,7 @@ Building Software, AI Systems & Human-Centered Experiences 🚀
 
 ---
 
-## ☁️ Cloud & DevOps
+## * Cloud & DevOps
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,linux,git"/>
@@ -79,7 +83,7 @@ Building Software, AI Systems & Human-Centered Experiences 🚀
 
 ---
 
-## 🎮 Game Development
+## * Game Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=unity"/>
@@ -87,10 +91,10 @@ Building Software, AI Systems & Human-Centered Experiences 🚀
 
 ---
 
-## 🎨 UI / UX Design
+## * UI / UX Design
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma"/>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator"/>
 </p>
 
 - Adobe XD  
@@ -99,28 +103,42 @@ Building Software, AI Systems & Human-Centered Experiences 🚀
 
 ---
 
-# 📊 GitHub Stats
+# * GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-dev-1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-# 🔥 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-dev-1&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
 ---
 
-# ✨ Quote
+# * Currently Top used Languages
 
 <p align="center">
-"Code. Build. Learn. Repeat." 🚀
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-dev-1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
+
+---
+
+# * Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-dev-1&theme=tokyo-night&hide_border=true"/>
+</p>
+
+
+
+<p align="center">
+"Believe to Achieve"
+</p>
+
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mohamed-dev-1&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+

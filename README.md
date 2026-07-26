@@ -112,14 +112,6 @@ Building Software, AI Systems & Human-Centered Experiences
 
 ---
 
-# * Currently Top used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-dev-1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
-
----
-
 # * Contribution Graph
 
 <p align="center">

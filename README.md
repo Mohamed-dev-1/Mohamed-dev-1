@@ -105,9 +105,6 @@ Building Software, AI Systems & Human-Centered Experiences
 
 # * GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-dev-1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-dev-1&theme=tokyonight&hide_border=true&border_radius=10"/>

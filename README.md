@@ -55,7 +55,8 @@ Building Software, AI Systems & Human-Centered Experiences
 ## APP Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio"/>
+<img src="https://skillicons.dev/icons?i=androidstudio"/> 
+<img src="https://skillicons.dev/icons?i=flutter"/>
 </p>
 
 ---

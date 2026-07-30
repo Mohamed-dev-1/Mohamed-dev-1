@@ -99,14 +99,6 @@ Building Software, AI Systems & Human-Centered Experiences
 - Photoshop  
 - Illustrator  
 
----
-
-# * GitHub Stats
-
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-dev-1&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
 
 ---
 

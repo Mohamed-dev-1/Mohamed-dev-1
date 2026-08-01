@@ -14,7 +14,7 @@ Building Software, AI Systems & Human-Centered Experiences
 
 ---
 
-## * About Me
+##  About Me
 
 -  Software Developer
 -  AI / Machine Learning Enthusiast
@@ -25,7 +25,7 @@ Building Software, AI Systems & Human-Centered Experiences
 
 ---
 
-## * Personal Pages :
+##  Personal Pages :
 
 <p align="center"> 
 <a href="https://github.com/Mohamed-dev-1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -34,7 +34,7 @@ Building Software, AI Systems & Human-Centered Experiences
 
 ---
 
-# * Tech Stack
+#  Tech Stack
 
 ##  Programming Languages
 
@@ -61,7 +61,7 @@ Building Software, AI Systems & Human-Centered Experiences
 
 ---
 
-## * AI / Machine Learning
+##  AI / Machine Learning
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch"/>
@@ -74,7 +74,7 @@ Building Software, AI Systems & Human-Centered Experiences
 
 ---
 
-## * Databases
+##  Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite"/>
@@ -82,7 +82,7 @@ Building Software, AI Systems & Human-Centered Experiences
 
 ---
 
-## * Cloud & DevOps
+##  Cloud & DevOps
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,linux,git"/>
@@ -90,7 +90,7 @@ Building Software, AI Systems & Human-Centered Experiences
 
 ---
 
-## * Game Development
+##  Game Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=unity"/>
@@ -98,12 +98,13 @@ Building Software, AI Systems & Human-Centered Experiences
 
 ---
 
-## * UI / UX Design
+##  UI / UX Design
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator"/>
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator"/>
 </p>
 
+- Figma
 - Adobe XD  
 - Photoshop  
 - Illustrator  

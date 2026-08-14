@@ -17,7 +17,7 @@ Building Software, AI Systems & Human-Centered Experiences
 ##  About Me
 
 -  Software Developer
--  AI / Machine Learning Enthusiast
+-  AI / Machine Learning Student
 -  Full Stack Web Developer
 -  Game Developer
 -  UI / UX Designer

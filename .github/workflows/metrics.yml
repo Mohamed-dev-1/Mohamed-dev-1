@@ -1,1 +1,20 @@
-
+name: Metrics
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Mohamed-dev-1
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_calendar: yes

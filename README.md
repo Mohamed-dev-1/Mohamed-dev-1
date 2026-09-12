@@ -130,4 +130,24 @@ Building Software, AI Systems & Human-Centered Experiences
 <img src="https://komarev.com/ghpvc/?username=Mohamed-dev-1&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
+---
+---
+---
+
+
+<h3 class="field">Most used languages</h3>
+                <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
+                    <mask id="languages-bar">
+                        <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
+                    </mask>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="419.8379539410089" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="419.8379539410089" y="0" width="233.55132917945082" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="653.3892831204597" y="0" width="175.66699346012462" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="829.0562765805843" y="0" width="90.94372341941565" height="8" fill="#008000"/>
+                </svg>
+
+
+
+
 

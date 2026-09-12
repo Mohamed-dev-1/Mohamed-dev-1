@@ -118,8 +118,9 @@ Building Software, AI Systems & Human-Centered Experiences
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-dev-1&theme=tokyo-night&hide_border=true"/>
 </p>
 
+<p align="center">
 <img src="./profile-3d-contrib/profile-night-green.svg" width="750" />
-
+</p>
 
 <p align="center">
 "Believe to Achieve"

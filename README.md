@@ -118,6 +118,8 @@ Building Software, AI Systems & Human-Centered Experiences
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-dev-1&theme=tokyo-night&hide_border=true"/>
 </p>
 
+![3D contribution graph](./profile-3d-contrib/profile-night-green.svg)
+
 
 
 <p align="center">

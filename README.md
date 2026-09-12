@@ -1,3 +1,7 @@
+![metrics](./github-metrics.svg)
+
+---
+
 <h1 align="center"> This is " Mohammed Allae Eddine " </h1>
 
 <h3 align="center">
@@ -133,6 +137,3 @@ Building Software, AI Systems & Human-Centered Experiences
 </p>
 
 ---
----
----
-![metrics](./github-metrics.svg)

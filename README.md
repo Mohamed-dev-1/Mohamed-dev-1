@@ -3,7 +3,6 @@
 <p align="center">
 <img src="./profile-3d-contrib/profile-night-green.svg" width="750" />
 </p>
----
 
 <h1 align="center"> This is " Mohammed Allae Eddine " </h1>
 
@@ -24,7 +23,8 @@ Building Software, AI Systems & Human-Centered Experiences
 ##  About Me
 
 -  Software Developer
--  AI / Machine Learning Student
+-  Msc in Data Science 
+-  AI / Machine Learning Engineer
 -  Full Stack Web Developer
 -  Game Developer
 -  UI / UX Designer

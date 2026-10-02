@@ -1,7 +1,7 @@
 ![metrics](./github-metrics.svg)
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-night-green.svg" width="750" />
+<img src="./profile-3d-contrib/profile-night-view.svg" width="750" />
 </p>
 
 <h1 align="center"> This is " Mohammed Allae Eddine " </h1>

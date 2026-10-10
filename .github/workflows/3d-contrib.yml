@@ -18,6 +18,8 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A ./profile-3d-contrib && git commit -m "generate 3D contribution graph" || echo "no changes"
-          git pull --rebase origin main
-          git push
+          git add -A ./profile-3d-contrib
+          git commit -m "generate 3D contribution graph" || echo "no changes"
+          git fetch origin main
+          git merge -X ours origin/main --no-edit || true
+          git push origin HEAD:main

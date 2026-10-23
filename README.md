@@ -7,7 +7,7 @@
 <h1 align="center"> This is " Mohammed Allae Eddine " </h1>
 
 <h3 align="center">
-Full-Stack Developer • AI/ML • Game Development • UI/UX • HCI
+ AI Engineer • Software Engineer • Data Scientist • 8
 </h3>
 
 <p align="center">

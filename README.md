@@ -22,14 +22,9 @@ Building Software, AI Systems & Human-Centered Experiences
 
 ##  About Me
 
--  Software Developer
+-  Software Engineer
 -  MSc in Data Science 
 -  AI / Machine Learning Engineer
--  Full Stack Web Developer
--  Game Developer
--  UI / UX Designer
--  Human Computer Interaction (HCI)
-
 ---
 
 ##  Personal Pages :

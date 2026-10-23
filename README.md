@@ -23,7 +23,7 @@ Building Software, AI Systems & Human-Centered Experiences
 ##  About Me
 
 -  Software Developer
--  Msc in Data Science 
+-  MSc in Data Science 
 -  AI / Machine Learning Engineer
 -  Full Stack Web Developer
 -  Game Developer
